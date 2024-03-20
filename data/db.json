@@ -1,0 +1,152 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": "2",
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": "3",
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "id": "32a0",
+      "name": "aasasa",
+      "price": 12
+    },
+    {
+      "id": "66b8",
+      "name": "aasasa",
+      "price": 12
+    },
+    {
+      "0": {
+        "name": "pedrosa",
+        "price": 50
+      },
+      "id": "ab10"
+    },
+    {
+      "0": {
+        "name": "aasasa",
+        "price": 20
+      },
+      "id": "d3c1"
+    },
+    {
+      "0": {
+        "name": "aasas",
+        "price": "1233"
+      },
+      "id": "08ea"
+    },
+    {
+      "0": {
+        "name": "pedro",
+        "price": 0
+      },
+      "id": "8bea"
+    },
+    {
+      "id": "744f",
+      "name": "eetet",
+      "price": 0
+    },
+    {
+      "id": "8547",
+      "name": "aa",
+      "price": 0
+    },
+    {
+      "id": "522b",
+      "name": "pedo",
+      "price": 90
+    },
+    {
+      "0": {
+        "name": "aaaa",
+        "price": 0
+      },
+      "id": "d129"
+    },
+    {
+      "id": "7f06",
+      "name": "teste",
+      "price": 0
+    },
+    {
+      "id": "e917",
+      "name": "lucas",
+      "price": 0
+    },
+    {
+      "id": "d386",
+      "name": "",
+      "price": 0
+    },
+    {
+      "id": "5a22",
+      "name": "poJDPOJDPQWODJJQWPODJ",
+      "price": 0
+    },
+    {
+      "id": "52b7",
+      "name": "OPDPWFNE",
+      "price": 90
+    },
+    {
+      "id": "f0c9",
+      "name": "",
+      "price": 0
+    },
+    {
+      "id": "41c0",
+      "name": "",
+      "price": 0
+    },
+    {
+      "id": "06c8",
+      "name": "",
+      "price": 0
+    },
+    {
+      "id": "ef94",
+      "name": "",
+      "price": 0
+    },
+    {
+      "id": "f146",
+      "price": 0
+    },
+    {
+      "id": "77af",
+      "name": "",
+      "price": 0
+    },
+    {
+      "id": "3679",
+      "name": "",
+      "price": 0
+    },
+    {
+      "id": "adae",
+      "price": 0
+    },
+    {
+      "id": "aeee",
+      "name": "sasasas",
+      "price": 90
+    },
+    {
+      "id": "5092",
+      "name": "asasasaa",
+      "price": 50
+    }
+  ]
+}
